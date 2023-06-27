@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "use-flags": "^1.0.1"
+  }
+}
